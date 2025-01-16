@@ -21,13 +21,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  <a href="https://www.facebook.com/atikabraremon">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="FaceBook Badge"/>
-  </a>
-  
  <a href="https://www.instagram.com/atikabraremon">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
+  <a href="https://www.facebook.com/atikabraremon">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="FaceBook Badge"/>
+  </a>
   
 </div>
